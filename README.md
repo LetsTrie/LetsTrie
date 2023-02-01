@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm MD. Sakib Khan</h1>
-<h3 align="center">A passionate backend engineer from Bangladesh</h3>
+<h3 align="center">Backend Engineer from Bangladesh </h3>
 
-- 🔭 I’m currently working in **Onethread** as ***Associate Software Engineer III***
+<br>
+
+- 🔭 I’m currently working at **Onethread** as ***Software Engineer III***
 
 - 🌱 I’m currently learning **NodeJS, ExpressJS, MongoDB, Redis, Elastic Search, System Design**
 
@@ -9,7 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/letstrie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="letstrie" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/letstrie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="letstrie" height="30" width="40" /></a>
 </p>
 
