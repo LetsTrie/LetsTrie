@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD. Sakib Khan</h1>
 <h3 align="center">A passionate backend engineer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=letstrie&label=Profile%20views&color=0e75b6&style=flat" alt="letstrie" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=letstrie" alt="letstrie" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/letstrie" target="blank"><img src="https://img.shields.io/twitter/follow/letstrie?logo=twitter&style=for-the-badge" alt="letstrie" /></a> </p>
-
 - 🔭 I’m currently working on **Onethread**
 
 - 🌱 I’m currently learning **NodeJS, ExpressJS, MongoDB, Redis, Elastic Search, System Desgin**
