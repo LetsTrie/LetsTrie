@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm MD. Sakib Khan</h1>
 <h3 align="center">A passionate backend engineer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **Onethread**
+- 🔭 I’m currently working in **Onethread** as ***Associate Software Engineer III***
 
-- 🌱 I’m currently learning **NodeJS, ExpressJS, MongoDB, Redis, Elastic Search, System Desgin**
+- 🌱 I’m currently learning **NodeJS, ExpressJS, MongoDB, Redis, Elastic Search, System Design**
 
-- 📫 How to reach me **sakibkhan111296@gmail.com**
+- 📫 How to reach me - **sakibkhan111296@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
