@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD. Sakib Khan</h1>
 <h3 align="center">Backend Engineer from Bangladesh </h3>
 
-<br>
-
 - 🔭 I’m currently working at **Onethread** as ***Software Engineer III***
 
 - 🌱 I’m currently learning **NodeJS, ExpressJS, MongoDB, Redis, Elastic Search, System Design**
